@@ -2,7 +2,7 @@
 
 <h2 align="center">Lore friendly uniforms for AltV, FiveM, RageMP &amp; Single Player 👕</h2>
 
-<h2 align="center">DO NOT REUPLOAD WITHOUT MY CONSENT</h2>
+<h2 align="center">Forked per GPL v3 licensing</h2>
 
 <p align="center">
   <a href="https://github.com/TayMcKenzieNZ/TaysBusinessPack"><img src="https://img.shields.io/badge/license-GPL--3.0-blue.svg" alt="License"></a>
@@ -11,7 +11,7 @@
 </p>
 
 
-# To stream this pack on FiveM, you must be a Patron of the $US15 tier or higher, if not, visit the [Patreon page](https://www.patreon.com/fivem). Prices may change at any given date and is out of my control.
+# To stream this pack on FiveM, you must be a Patron of the $US15 tier or higher, if not, visit the [Patreon page](https://www.patreon.com/fivem).
 
 *Alternatively, you can set your player count to 10*
 
@@ -216,8 +216,17 @@ D - Yellow Cluckin  Bell
 
 # License 📝
 
-This repository was created by TayMcKenzieNZ and is under the GPL V3 license. It was created with the understanding that is open source and free of charge, 
-however this does not mean that scumbag South Africans called 'Mavrick' can outright steal and reupload to their Tebex store.
+This repository is under the GPL V3 license granting the following permissions:
+
+Commercial use
+Modification
+Distribution
+Patent use
+Private use
+
+Explained here: https://www.tldrlegal.com/license/gnu-general-public-license-v3-gpl-3 if you are too stupid to bother reading the full license or understand what GPLv3 is
+
+Originally created by TayMcKenzieNZ
 
 -------------------
 
